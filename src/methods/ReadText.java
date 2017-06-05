@@ -46,10 +46,4 @@ public class ReadText implements ReadTextINF {
 			e.printStackTrace();
 		}
 }
-
-	public void createFile(String name) {
-		// TODO Auto-generated method stub
-
-
-	}
 }
